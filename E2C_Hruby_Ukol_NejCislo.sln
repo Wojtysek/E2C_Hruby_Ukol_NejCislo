@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E2C_Hruby_Ukol_NejCislo", "E2C_Hruby_Ukol_NejCislo\E2C_Hruby_Ukol_NejCislo.vcxproj", "{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Debug|x64.ActiveCfg = Debug|x64
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Debug|x64.Build.0 = Debug|x64
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Debug|x86.Build.0 = Debug|Win32
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Release|x64.ActiveCfg = Release|x64
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Release|x64.Build.0 = Release|x64
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Release|x86.ActiveCfg = Release|Win32
+		{4BDA82E3-FDFF-4280-BEB9-5DC08A208621}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85715ECA-9011-4F30-883D-5F577B54650F}
+	EndGlobalSection
+EndGlobal
